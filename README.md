@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rjnishant530 / @Fictics
 - 👀 I’m interested in ... ML and AI
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ... Hardware 
 - 📫 How to reach me ...
 
